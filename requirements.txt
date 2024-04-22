@@ -2,3 +2,4 @@ inject
 typing
 logging
 functools
+unittest
